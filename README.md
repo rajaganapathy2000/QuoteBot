@@ -59,7 +59,7 @@ python3 bot.py
  `Make sure You have Changed Your Bot Token Before Hosting It`
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gowtham2003/BrainyQuoteBot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rajaganapathy2000/QuoteBot/tree/master)
 
 
 ### Licence
